@@ -1,4 +1,5 @@
 a=10
 b=20
 c=30
-print(Exercise-6);
+sum=a+b+c
+print(c);
